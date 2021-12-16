@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HiPoly
+- 👀 I’m interested in game-dev and OOP
+- 🌱 I’m currently learning rust and .net languages
